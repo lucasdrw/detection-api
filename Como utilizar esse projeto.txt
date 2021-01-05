@@ -1,0 +1,27 @@
+Detecção de Rotulos de imagem usando a APi do Google Cloud Vision
+
+Como Utilizar:
+
+Passo 1:
+
+Ter instalado o Node.Js, NPM e o VSCode
+
+Passo 2:
+
+Instalar as dependências a seguir:
+
+Instalando dependências:
+
+npm install
+
+Passo 3:
+
+Gerar uma chave de Api do Google Cloud Vision no https://cloud.google.com/vision e ativar o faturamento.
+
+Passo 4:
+
+Adicionar a Chave de Api no Local indicado no codigo
+
+Passo 5
+
+Usar o comando npm run server para executar o projeto.
